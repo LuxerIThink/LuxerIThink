@@ -17,6 +17,7 @@ I'm a graduate of Automation and Robotics 🦾 in the Poznań University of Tech
 ## 📚 Tech Stack:
 
 ![NodeJS](https://img.shields.io/badge/node.js-0d121c?style=for-the-badge&logo=node.js&logoColor=60b248)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-000000.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-15253e.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -48,7 +49,6 @@ I'm a graduate of Automation and Robotics 🦾 in the Poznań University of Tech
 ![PyCharm](	https://img.shields.io/badge/PyCharm-97ca00.svg?&style=for-the-badge&logo=PyCharm&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/google%20colab-F9AB00.svg?style=for-the-badge&logo=google%20colab&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter%20notebook-f37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 📦 Deploy on:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
