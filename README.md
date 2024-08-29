@@ -58,6 +58,3 @@ I'm a graduate of Automation and Robotics 🦾 in the Poznań University of Tech
 ![OVH](https://img.shields.io/badge/ovh-000e9c.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-## 📊 GitHub Stats:
-![Top tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=LuxerIThink&theme=chartreuse-dark&hide_border=false&layout=compact)
