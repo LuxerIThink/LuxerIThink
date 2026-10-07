@@ -2,4 +2,4 @@
 
 ## 💫 About Me:
 
-🐍 Python Software Enginner, dealing with AI software 🦾. Interested in IU/UX design ✨.
+🐍 Python Software Enginner, dealing with AI software 🦾. Interested in UI/UX design ✨.
